@@ -9,4 +9,4 @@ A página possuí semântica e responsividade para outros dispositivos
 </div>
 <br/>
 
-### [Link para a Página]()
+### [Link para a Página](https://luca-merighi.github.io/DesafioDiscover-RocketNews/ "RocketNews")
